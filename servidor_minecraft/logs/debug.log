@@ -4683,3 +4683,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 18:26:38.604] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md7cd4ca$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
 [16Jul2025 18:27:25.831] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
 [16Jul2025 18:27:26.942] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[16Jul2025 18:29:27.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:29:27.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:32:01.436] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_iron" - querying recipes to get these
+[16Jul2025 18:32:01.733] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[16Jul2025 18:33:49.531] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[16Jul2025 18:33:49.542] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_gold" - querying recipes to get these
+[16Jul2025 18:33:49.548] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[16Jul2025 18:33:49.557] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[16Jul2025 18:33:49.565] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[16Jul2025 18:34:27.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:34:27.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
