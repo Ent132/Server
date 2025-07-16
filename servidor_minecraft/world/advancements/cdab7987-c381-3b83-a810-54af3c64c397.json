@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-07-12 23:00:54 +0000",
+      "minecraft:savanna_plateau": "2025-07-16 21:12:42 +0000",
       "minecraft:stony_peaks": "2025-07-13 02:18:39 +0000",
       "minecraft:river": "2025-07-12 23:00:48 +0000",
       "minecraft:forest": "2025-07-13 02:25:46 +0000",
@@ -81,6 +82,7 @@
       "minecraft:jungle": "2025-07-12 22:57:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-13 01:47:27 +0000",
       "minecraft:deep_dark": "2025-07-12 23:33:55 +0000",
+      "minecraft:savanna": "2025-07-16 21:13:03 +0000",
       "minecraft:plains": "2025-07-16 20:57:37 +0000"
     },
     "done": false
@@ -5275,18 +5277,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "carrot": "2025-07-16 20:59:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-16 21:06:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-07-16 20:55:42 +0000"
@@ -5314,6 +5304,18 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-07-16 20:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-07-16 20:59:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-16 21:06:48 +0000"
     },
     "done": true
   },
