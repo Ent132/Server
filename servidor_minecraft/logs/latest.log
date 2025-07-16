@@ -269,3 +269,8 @@
 [16Jul2025 18:47:55.887] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/26391, l='ServerLevel[world]', x=-767.42, y=106.18, z=323.24]
 [16Jul2025 18:54:44.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-397, y=82, z=433} BlockPos{x=-399, y=81, z=418}
 [16Jul2025 19:05:48.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-413, y=71, z=417} BlockPos{x=-413, y=70, z=419}
+[16Jul2025 20:32:08.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.136.175.158:35159] logged in with entity id 564801 at (-744.1169351822159, 124.0, 25.633482882986858)
+[16Jul2025 20:32:08.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[16Jul2025 20:32:08.547] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[16Jul2025 20:32:11.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[16Jul2025 20:32:54.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> ?
