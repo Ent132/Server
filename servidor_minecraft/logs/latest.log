@@ -271,3 +271,16 @@
 [16Jul2025 18:26:23.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
 [16Jul2025 18:26:23.598] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [16Jul2025 18:26:29.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6553ms or 131 ticks behind
+[16Jul2025 18:40:19.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[16Jul2025 18:40:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[16Jul2025 18:40:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jul2025 18:40:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jul2025 18:40:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jul2025 18:40:25.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jul2025 18:40:25.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jul2025 18:40:25.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jul2025 18:40:25.761] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

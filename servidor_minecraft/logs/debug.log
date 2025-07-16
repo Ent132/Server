@@ -4694,3 +4694,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 18:33:49.565] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
 [16Jul2025 18:34:27.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 18:34:27.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:39:27.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:39:27.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:40:19.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[16Jul2025 18:40:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[16Jul2025 18:40:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jul2025 18:40:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jul2025 18:40:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jul2025 18:40:25.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jul2025 18:40:25.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jul2025 18:40:25.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jul2025 18:40:25.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:40:25.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jul2025 18:40:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jul2025 18:40:25.760] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[16Jul2025 18:40:25.761] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
