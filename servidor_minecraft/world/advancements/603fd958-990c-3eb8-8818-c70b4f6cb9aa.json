@@ -9935,12 +9935,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-07-16 20:21:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-16 18:43:58 +0000"
@@ -9953,12 +9947,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-16 20:21:50 +0000"
-    },
-    "done": true
-  },
   "mcwlights:recipes/copper_stuff": {
     "criteria": {
       "has_wood": "2025-07-16 18:43:58 +0000"
@@ -9968,6 +9956,24 @@
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
     "criteria": {
       "has_advanced_pickup_upgrade": "2025-07-16 19:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-07-16 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-16 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-16 20:53:26 +0000"
     },
     "done": true
   },
