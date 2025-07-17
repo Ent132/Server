@@ -348,3 +348,5 @@
 [17Jul2025 02:51:59.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> ahi pondre una tumba
 [17Jul2025 02:52:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> honrando al del bigote gracioso
 [17Jul2025 02:52:09.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> sera parte del lore ahora
+[17Jul2025 03:08:46.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
+[17Jul2025 03:08:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
