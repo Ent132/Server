@@ -367,3 +367,4 @@
 [17Jul2025 05:27:00.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1620810, l='ServerLevel[world]', x=-2763.96, y=69.00, z=897.22] died, message: 'Cartographer was shot by Pillager'
 [17Jul2025 05:28:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Rusted Root]
 [17Jul2025 05:31:20.192] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Jul2025 05:41:52.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Birds of a Feather]
