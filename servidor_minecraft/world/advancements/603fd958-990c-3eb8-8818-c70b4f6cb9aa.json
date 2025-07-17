@@ -2402,6 +2402,7 @@
       "minecraft:enderman": "2025-07-13 01:10:54 +0000",
       "minecraft:silverfish": "2025-07-13 02:59:03 +0000",
       "minecraft:stray": "2025-07-16 02:05:41 +0000",
+      "minecraft:vex": "2025-07-17 05:15:00 +0000",
       "minecraft:zombie": "2025-07-12 23:07:55 +0000",
       "minecraft:drowned": "2025-07-12 23:11:26 +0000",
       "minecraft:zombie_villager": "2025-07-14 02:54:16 +0000"
@@ -10959,6 +10960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2025-07-17 04:48:56 +0000"
@@ -11571,6 +11578,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_attic_roof": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -11883,6 +11896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_large_drawer": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -12066,6 +12085,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
     },
     "done": true
   },
