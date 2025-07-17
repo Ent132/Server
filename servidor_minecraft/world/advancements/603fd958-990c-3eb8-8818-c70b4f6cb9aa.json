@@ -11531,6 +11531,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-07-17 05:28:06 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mws/regions_unexplored/redwood_platform": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
