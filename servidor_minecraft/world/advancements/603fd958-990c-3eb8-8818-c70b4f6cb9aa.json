@@ -892,6 +892,7 @@
       "fungal_jungle": "2025-07-16 00:52:17 +0000",
       "erupting_inferno": "2025-07-16 23:10:46 +0000",
       "floodplain": "2025-07-13 04:02:24 +0000",
+      "lush_savanna": "2025-07-17 03:34:21 +0000",
       "highland": "2025-07-14 05:47:12 +0000",
       "jacaranda_glade": "2025-07-13 04:26:04 +0000",
       "jade_cliffs": "2025-07-13 04:25:52 +0000",
@@ -902,6 +903,7 @@
       "overgrown_greens": "2025-07-16 01:20:16 +0000",
       "mediterranean_forest": "2025-07-13 04:25:42 +0000",
       "spider_nest": "2025-07-14 02:40:20 +0000",
+      "lush_desert": "2025-07-17 03:33:46 +0000",
       "redwood_forest": "2025-07-13 02:54:19 +0000",
       "visceral_heap": "2025-07-17 00:03:22 +0000",
       "volcano": "2025-07-13 02:51:07 +0000",
@@ -919,7 +921,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-07-12 23:02:05 +0000",
+      "dry_bushland": "2025-07-17 03:56:40 +0000",
       "pine_taiga": "2025-07-15 06:46:56 +0000",
+      "sparse_rainforest": "2025-07-17 03:38:21 +0000",
       "autumnal_maple_forest": "2025-07-14 09:18:56 +0000",
       "muddy_river": "2025-07-16 02:14:36 +0000",
       "ancient_delta": "2025-07-15 04:17:20 +0000",
@@ -931,8 +935,11 @@
       "ochard": "2025-07-14 09:17:16 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
+      "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
+      "outback": "2025-07-17 03:33:43 +0000",
       "sparse_redwoods": "2025-07-13 04:04:48 +0000",
       "mountains": "2025-07-14 09:16:53 +0000",
+      "joshua_desert": "2025-07-17 03:39:53 +0000",
       "deciduous_forest": "2025-07-15 04:51:23 +0000",
       "boreal_forest": "2025-07-16 03:45:34 +0000",
       "glistering_meadow": "2025-07-16 23:10:03 +0000",
@@ -940,11 +947,13 @@
       "chalk_cliffs": "2025-07-12 22:51:23 +0000",
       "infernal_holt": "2025-07-16 22:22:46 +0000",
       "bamboo_forest": "2025-07-12 22:52:02 +0000",
+      "saguaro_desert": "2025-07-17 03:33:31 +0000",
       "temperate_grove": "2025-07-12 22:56:26 +0000",
       "pine_slopes": "2025-07-14 10:18:29 +0000",
       "grassland": "2025-07-15 23:01:29 +0000",
       "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
+      "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
     "done": false
@@ -952,7 +961,9 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-07-12 23:02:05 +0000",
+      "dry_bushland": "2025-07-17 03:56:40 +0000",
       "pine_taiga": "2025-07-15 06:46:56 +0000",
+      "sparse_rainforest": "2025-07-17 03:38:21 +0000",
       "autumnal_maple_forest": "2025-07-14 09:18:56 +0000",
       "muddy_river": "2025-07-16 02:14:36 +0000",
       "willow_forest": "2025-07-14 05:47:36 +0000",
@@ -962,17 +973,22 @@
       "ochard": "2025-07-14 09:17:16 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
+      "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
+      "outback": "2025-07-17 03:33:43 +0000",
       "sparse_redwoods": "2025-07-13 04:04:48 +0000",
       "mountains": "2025-07-14 09:16:53 +0000",
+      "joshua_desert": "2025-07-17 03:39:53 +0000",
       "deciduous_forest": "2025-07-15 04:51:23 +0000",
       "boreal_forest": "2025-07-16 03:45:34 +0000",
       "chalk_cliffs": "2025-07-12 22:51:23 +0000",
       "bamboo_forest": "2025-07-12 22:52:02 +0000",
+      "saguaro_desert": "2025-07-17 03:33:31 +0000",
       "temperate_grove": "2025-07-12 22:56:26 +0000",
       "pine_slopes": "2025-07-14 10:18:29 +0000",
       "grassland": "2025-07-15 23:01:29 +0000",
       "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
+      "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
     "done": false
@@ -10797,6 +10813,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-07-17 01:08:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-07-17 03:38:43 +0000"
     },
     "done": true
   },
