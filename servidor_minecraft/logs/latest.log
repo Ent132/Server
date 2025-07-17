@@ -353,3 +353,11 @@
 [17Jul2025 03:38:43.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Enter Sandman]
 [17Jul2025 04:12:00.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/1162909, l='ServerLevel[world]', x=2982.53, y=110.60, z=-904.29] died: Dinnerbone was killed by magic whilst trying to escape Ent144
 [17Jul2025 04:12:01.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/1164470, l='ServerLevel[world]', x=2983.82, y=110.60, z=-904.41] died: Dinnerbone was killed by magic whilst trying to escape Ent144
+[17Jul2025 04:31:30.912] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[17Jul2025 04:33:30.296] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Jul2025 04:34:02.718] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17Jul2025 04:35:56.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Ancient Civilization]
+[17Jul2025 04:44:15.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Withering Heights]
+[17Jul2025 04:45:32.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Strong Undead]
+[17Jul2025 04:46:37.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Knowledge raises the soul]
+[17Jul2025 04:48:46.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [The Thing of Ancient Civilization]

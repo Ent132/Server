@@ -75,6 +75,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-17 01:53:55 +0000",
       "minecraft:deep_ocean": "2025-07-16 01:01:19 +0000",
+      "minecraft:eroded_badlands": "2025-07-17 04:27:18 +0000",
       "minecraft:sunflower_plains": "2025-07-14 23:44:15 +0000",
       "minecraft:birch_forest": "2025-07-16 01:50:37 +0000",
       "minecraft:bamboo_jungle": "2025-07-12 22:49:17 +0000",
@@ -914,6 +915,7 @@
       "lavender_field": "2025-07-13 04:29:01 +0000",
       "prairie": "2025-07-13 04:24:40 +0000",
       "grassland": "2025-07-16 00:53:15 +0000",
+      "glowing_grotto": "2025-07-17 04:35:27 +0000",
       "undergrowth": "2025-07-16 22:12:14 +0000",
       "rainforest": "2025-07-12 22:51:15 +0000"
     },
@@ -2387,6 +2389,7 @@
       "minecraft:spider": "2025-07-13 03:09:52 +0000",
       "minecraft:piglin_brute": "2025-07-16 22:27:41 +0000",
       "minecraft:creeper": "2025-07-13 04:05:44 +0000",
+      "minecraft:wither": "2025-07-17 04:45:32 +0000",
       "minecraft:slime": "2025-07-14 09:38:19 +0000",
       "minecraft:evoker": "2025-07-15 05:26:57 +0000",
       "minecraft:phantom": "2025-07-16 00:13:42 +0000",
@@ -6963,6 +6966,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "brimwood_log": "2025-07-16 23:07:50 +0000",
+      "redwood_log": "2025-07-17 04:32:23 +0000",
       "maple_log": "2025-07-14 09:20:22 +0000"
     },
     "done": false
@@ -10817,9 +10821,159 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-07-17 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/redwood_cabinet": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-07-17 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_barn_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_bamboo_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_stable_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_top_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_parapet": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_barn_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cactus": {
     "criteria": {
       "has_cactus": "2025-07-17 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_lower_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
@@ -10829,9 +10983,279 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_picket_fence": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_compact_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_stool_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-07-17 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_four_panel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_lower_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_mystic_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_beach_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_bamboo_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_log_four_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_paper_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo_planks": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_wired_fence": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_cottage_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-07-17 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_pyramid_gate": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_stockade_fence": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_classic_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-17 04:44:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_louvered_shutter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/rope_redwood_bridge": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_waffle_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_terrace_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_glass_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_barred_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_bamboo": {
+    "criteria": {
+      "has_item": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 04:48:29 +0000"
     },
     "done": true
   },
@@ -10841,9 +11265,423 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_coffee_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_tropical_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_stool_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_four_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-17 04:46:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_horse_fence": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_bridge_pier": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_shutter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_balcony": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-17 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/regions_unexplored/item_shelf_redwood": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_four_panel_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_bark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_mystic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_end_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_modern_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_platform": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_double_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_railing": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_swamp_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_double_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-07-17 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_coffee_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_skyline_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_rope_bridge_stair_recycle": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_barn_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_highley_gate": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
     },
     "done": true
   },
@@ -10853,15 +11691,621 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_rope_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_bulk_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_blinds": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_top_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_paper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_tropical_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_four_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_window2": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_bamboo": {
+    "criteria": {
+      "has_item": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-07-17 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/redwood_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/redwood_loft_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_glass_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_window2": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_bark_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcp/regions_unexplored/redwood_planks_path": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_large_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_end_table": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_log_parapet": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_log_window2": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-17 04:25:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_stable_head_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_beach_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_modern_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_japanese2_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/soul_redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_western_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_barrel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_cottage_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo_mosaic": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-07-17 04:35:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_ranch_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_log_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-07-17 04:12:53 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_japanese_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:the_harbinger": "2025-07-17 04:48:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_swamp_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_log_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_bamboo": {
+    "criteria": {
+      "has_the_recipe": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_rail_bridge": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-07-17 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-07-17 02:22:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_nether_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_large_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_classic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
