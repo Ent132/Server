@@ -351,3 +351,5 @@
 [17Jul2025 03:08:46.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
 [17Jul2025 03:08:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
 [17Jul2025 03:38:43.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Enter Sandman]
+[17Jul2025 04:12:00.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/1162909, l='ServerLevel[world]', x=2982.53, y=110.60, z=-904.29] died: Dinnerbone was killed by magic whilst trying to escape Ent144
+[17Jul2025 04:12:01.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dinnerbone'/1164470, l='ServerLevel[world]', x=2983.82, y=110.60, z=-904.41] died: Dinnerbone was killed by magic whilst trying to escape Ent144
