@@ -11027,6 +11027,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-07-17 05:49:12 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_bookshelf_drawer": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -11717,6 +11723,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-07-17 05:54:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-17 04:01:19 +0000"
@@ -12176,6 +12188,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_bookshelf": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
+    "criteria": {
+      "has_meadow_sage": "2025-07-17 05:54:33 +0000"
     },
     "done": true
   },
