@@ -276,3 +276,18 @@
 [17Jul2025 02:02:28.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1902, y=65, z=156} BlockPos{x=1901, y=65, z=156}
 [17Jul2025 02:02:28.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1901, y=66, z=157} BlockPos{x=1901, y=65, z=156}
 [17Jul2025 02:05:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [What Happens in Las Vegas...]
+[17Jul2025 02:22:35.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:42439] logged in with entity id 200233 at (-664.4062653179371, 64.0, 507.2131176794322)
+[17Jul2025 02:22:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[17Jul2025 02:22:35.453] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[17Jul2025 02:22:59.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> hey
+[17Jul2025 02:23:07.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> que fue loco
+[17Jul2025 02:24:57.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> aqui
+[17Jul2025 02:25:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> terminando el mecanismo
+[17Jul2025 02:25:07.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> solo entre para esto xd
+[17Jul2025 02:25:26.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> chugg dale loco
+[17Jul2025 02:37:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> oe
+[17Jul2025 02:37:30.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> que paso con la granja de pollos?
+[17Jul2025 02:37:30.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> ?
+[17Jul2025 02:37:41.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> dejo de existir xd
+[17Jul2025 02:37:44.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> ah no c eso pregunta cristhian y marco
+[17Jul2025 02:37:50.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> creo que exploto un creeper
