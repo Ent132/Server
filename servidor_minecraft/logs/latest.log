@@ -361,3 +361,4 @@
 [17Jul2025 04:45:32.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Strong Undead]
 [17Jul2025 04:46:37.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Knowledge raises the soul]
 [17Jul2025 04:48:46.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [The Thing of Ancient Civilization]
+[17Jul2025 05:09:00.910] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
