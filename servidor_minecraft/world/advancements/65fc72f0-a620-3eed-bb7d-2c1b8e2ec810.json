@@ -1729,10 +1729,13 @@
       "minecraft:skeleton": "2025-07-13 00:37:56 +0000",
       "minecraft:spider": "2025-07-14 08:05:07 +0000",
       "minecraft:creeper": "2025-07-14 07:50:53 +0000",
+      "minecraft:witch": "2025-07-17 00:18:26 +0000",
       "minecraft:cave_spider": "2025-07-14 08:00:30 +0000",
       "minecraft:enderman": "2025-07-16 00:51:22 +0000",
       "minecraft:silverfish": "2025-07-15 23:19:12 +0000",
-      "minecraft:zombie": "2025-07-14 06:21:01 +0000"
+      "minecraft:zombie": "2025-07-14 06:21:01 +0000",
+      "minecraft:drowned": "2025-07-17 01:04:48 +0000",
+      "minecraft:zombie_villager": "2025-07-17 01:00:53 +0000"
     },
     "done": false
   },
@@ -1960,6 +1963,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-16 21:50:07 +0000",
       "baked_potato": "2025-07-14 07:22:23 +0000",
       "apple": "2025-07-13 02:57:31 +0000",
       "bread": "2025-07-13 03:26:51 +0000",
@@ -3752,6 +3756,7 @@
       "volcano": "2025-07-13 02:51:11 +0000",
       "rocky_rainforest": "2025-07-13 01:52:54 +0000",
       "prairie": "2025-07-14 06:05:00 +0000",
+      "undergrowth": "2025-07-16 22:43:45 +0000",
       "rainforest": "2025-07-13 02:50:59 +0000"
     },
     "done": false
@@ -6686,7 +6691,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-07-15 01:31:54 +0000"
+      "sugar_cane": "2025-07-15 01:31:54 +0000",
+      "potato": "2025-07-17 00:20:46 +0000",
+      "wheat": "2025-07-16 22:48:37 +0000"
     },
     "done": false
   },
@@ -6761,78 +6768,6 @@
       "has_cocoa": "2025-07-16 01:27:25 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 21:31:59 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/building_blocks/gold_mine": {
     "criteria": {
@@ -7047,6 +6982,854 @@
   "securitycraft:recipes/building_blocks/dirt_mine": {
     "criteria": {
       "has_mine": "2025-07-16 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_doors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_trapdoors": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_acacia": {
+    "criteria": {
+      "has_item": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-16 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-16 22:09:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
+    "criteria": {
+      "has_item": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_mahogany": {
+    "criteria": {
+      "has_item": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_item": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/mahogany_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-17 00:04:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_paths": {
+    "criteria": {
+      "has_wood": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-16 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-07-16 22:51:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-16 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-16 23:06:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-16 22:51:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/soul_mahogany_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-16 22:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-07-17 00:05:00 +0000",
+      "minecraft:cow": "2025-07-17 00:04:32 +0000",
+      "minecraft:chicken": "2025-07-17 00:07:32 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ru/biomesoplenty/mahogany_branch_from_mahogany_log": {
+    "criteria": {
+      "has_item": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-07-16 22:18:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-07-16 22:18:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-17 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-16 22:18:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-17 00:09:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-16 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-16 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-17 00:09:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/mahogany_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-16 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-16 22:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-16 22:48:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-16 23:38:17 +0000"
     },
     "done": true
   },
