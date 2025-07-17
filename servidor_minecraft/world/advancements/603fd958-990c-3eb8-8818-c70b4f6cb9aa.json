@@ -905,6 +905,7 @@
       "overgrown_greens": "2025-07-16 01:20:16 +0000",
       "mediterranean_forest": "2025-07-13 04:25:42 +0000",
       "spider_nest": "2025-07-14 02:40:20 +0000",
+      "dryland": "2025-07-17 05:23:49 +0000",
       "lush_desert": "2025-07-17 03:33:46 +0000",
       "redwood_forest": "2025-07-13 02:54:19 +0000",
       "visceral_heap": "2025-07-17 00:03:22 +0000",
@@ -10879,6 +10880,12 @@
   "cataclysm:kill_harbinger": {
     "criteria": {
       "theharbinger": "2025-07-17 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-17 05:24:26 +0000"
     },
     "done": true
   },
