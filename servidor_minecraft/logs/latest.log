@@ -368,3 +368,5 @@
 [17Jul2025 05:28:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Rusted Root]
 [17Jul2025 05:31:20.192] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [17Jul2025 05:41:52.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Birds of a Feather]
+[17Jul2025 06:11:23.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [Praise the Sun]
+[17Jul2025 06:15:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Intruder Alert]

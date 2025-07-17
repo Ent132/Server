@@ -4821,6 +4821,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "tavern_dark_oak": "2025-07-15 05:29:46 +0000",
+      "pillager_outpost": "2025-07-17 06:15:58 +0000",
       "illager_camp": "2025-07-13 02:56:59 +0000",
       "mansion": "2025-07-15 05:26:12 +0000"
     },
@@ -6967,6 +6968,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "mauve_log": "2025-07-17 06:17:54 +0000",
       "brimwood_log": "2025-07-16 23:07:50 +0000",
       "redwood_log": "2025-07-17 04:32:23 +0000",
       "maple_log": "2025-07-14 09:20:22 +0000"
@@ -10823,6 +10825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 06:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
@@ -10922,6 +10930,12 @@
   "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_parapet": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 06:17:54 +0000"
     },
     "done": true
   },
@@ -11309,6 +11323,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2025-07-17 06:17:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-07-17 04:19:22 +0000"
@@ -11372,6 +11392,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_chair": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 06:17:54 +0000"
     },
     "done": true
   },
@@ -11627,6 +11653,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-17 06:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-17 04:48:56 +0000"
@@ -11702,6 +11734,12 @@
   "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_highley_gate": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 06:02:00 +0000"
     },
     "done": true
   },
@@ -11903,6 +11941,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-07-17 06:03:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcp/regions_unexplored/redwood_planks_path": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -12059,6 +12103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-07-17 06:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
@@ -12110,6 +12160,12 @@
   "everycomp:recipes/decorations/mct/regions_unexplored/redwood_ranch_trapdoor": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-17 06:02:00 +0000"
     },
     "done": true
   },
@@ -12362,6 +12418,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_large_drawer": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-07-17 06:15:58 +0000"
     },
     "done": true
   },
