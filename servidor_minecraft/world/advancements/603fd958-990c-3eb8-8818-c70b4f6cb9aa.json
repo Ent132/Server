@@ -74,6 +74,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-17 01:53:55 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-18 01:27:49 +0000",
+      "minecraft:taiga": "2025-07-18 01:28:36 +0000",
       "minecraft:deep_ocean": "2025-07-16 01:01:19 +0000",
       "minecraft:eroded_badlands": "2025-07-17 04:27:18 +0000",
       "minecraft:frozen_river": "2025-07-18 00:13:27 +0000",
@@ -894,6 +896,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-07-13 01:39:01 +0000",
+      "shrubland": "2025-07-18 01:26:44 +0000",
       "scrubland": "2025-07-13 04:24:26 +0000",
       "fungal_jungle": "2025-07-16 00:52:17 +0000",
       "erupting_inferno": "2025-07-16 23:10:46 +0000",
@@ -942,6 +945,7 @@
       "muddy_river": "2025-07-16 02:14:36 +0000",
       "ancient_delta": "2025-07-15 04:17:20 +0000",
       "willow_forest": "2025-07-14 05:47:36 +0000",
+      "frozen_tundra": "2025-07-18 01:33:48 +0000",
       "grassy_beach": "2025-07-15 06:45:42 +0000",
       "rocky_meadow": "2025-07-12 23:02:04 +0000",
       "blackwood_taiga": "2025-07-16 01:15:57 +0000",
@@ -949,6 +953,7 @@
       "ochard": "2025-07-14 09:17:16 +0000",
       "flower_fields": "2025-07-18 00:05:48 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
+      "frozen_pine_taiga": "2025-07-18 01:33:58 +0000",
       "maple_forest": "2025-07-18 01:11:24 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
@@ -969,6 +974,7 @@
       "grassland": "2025-07-15 23:01:29 +0000",
       "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
+      "golden_boreal_taiga": "2025-07-18 01:27:53 +0000",
       "hyacinth_deeps": "2025-07-18 01:07:17 +0000",
       "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
@@ -985,12 +991,14 @@
       "autumnal_maple_forest": "2025-07-14 09:18:56 +0000",
       "muddy_river": "2025-07-16 02:14:36 +0000",
       "willow_forest": "2025-07-14 05:47:36 +0000",
+      "frozen_tundra": "2025-07-18 01:33:48 +0000",
       "grassy_beach": "2025-07-15 06:45:42 +0000",
       "rocky_meadow": "2025-07-12 23:02:04 +0000",
       "blackwood_taiga": "2025-07-16 01:15:57 +0000",
       "ochard": "2025-07-14 09:17:16 +0000",
       "flower_fields": "2025-07-18 00:05:48 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
+      "frozen_pine_taiga": "2025-07-18 01:33:58 +0000",
       "maple_forest": "2025-07-18 01:11:24 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
@@ -1008,6 +1016,7 @@
       "grassland": "2025-07-15 23:01:29 +0000",
       "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
+      "golden_boreal_taiga": "2025-07-18 01:27:53 +0000",
       "hyacinth_deeps": "2025-07-18 01:07:17 +0000",
       "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
@@ -4841,7 +4850,8 @@
       "tavern_dark_oak": "2025-07-15 05:29:46 +0000",
       "pillager_outpost": "2025-07-17 06:15:58 +0000",
       "illager_camp": "2025-07-13 02:56:59 +0000",
-      "mansion": "2025-07-15 05:26:12 +0000"
+      "mansion": "2025-07-15 05:26:12 +0000",
+      "witch_villa": "2025-07-18 01:34:25 +0000"
     },
     "done": false
   },
@@ -13432,6 +13442,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-07-18 01:02:12 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_witch_villa": {
+    "criteria": {
+      "nova_structures:witch_villa": "2025-07-18 01:34:25 +0000"
     },
     "done": true
   },
