@@ -50,3 +50,5 @@
 [18Jul2025 02:06:55.198] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
 [18Jul2025 02:06:55.198] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
 [18Jul2025 02:06:55.199] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[18Jul2025 02:12:20.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[18Jul2025 02:18:44.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Sunken City]
