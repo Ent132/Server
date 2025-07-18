@@ -273,3 +273,5 @@
 [18Jul2025 02:52:40.693] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
 [18Jul2025 02:57:06.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Discreet Search]
 [18Jul2025 03:00:38.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [A Multidimensional Predator]
+[18Jul2025 03:13:02.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[18Jul2025 03:13:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
