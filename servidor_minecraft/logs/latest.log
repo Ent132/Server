@@ -280,3 +280,4 @@
 [18Jul2025 03:39:40.856] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [18Jul2025 03:41:30.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6371ms or 127 ticks behind
 [18Jul2025 03:42:04.792] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[18Jul2025 03:54:35.065] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
