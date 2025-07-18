@@ -8,3 +8,7 @@
 [18Jul2025 00:07:21.709] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
 [18Jul2025 00:07:21.709] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
 [18Jul2025 00:12:13.829] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[18Jul2025 00:14:56.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[18Jul2025 00:15:05.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135613, l='ServerLevel[world]', x=-6209.50, y=64.44, z=1538.70] died, message: 'Unemployed suffocated in a wall'
+[18Jul2025 00:15:05.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135614, l='ServerLevel[world]', x=-6214.51, y=66.19, z=1547.46] died, message: 'Unemployed suffocated in a wall'
+[18Jul2025 00:15:05.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/135615, l='ServerLevel[world]', x=-6209.50, y=64.44, z=1542.70] died, message: 'Shepherd suffocated in a wall'
