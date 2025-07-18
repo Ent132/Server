@@ -36,3 +36,5 @@
 [18Jul2025 01:29:36.582] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
 [18Jul2025 01:31:22.933] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
 [18Jul2025 01:34:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Trouble is Brewing]
+[18Jul2025 01:47:43.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Bewitched]
+[18Jul2025 01:51:18.944] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
