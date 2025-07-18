@@ -12,3 +12,5 @@
 [18Jul2025 00:15:05.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135613, l='ServerLevel[world]', x=-6209.50, y=64.44, z=1538.70] died, message: 'Unemployed suffocated in a wall'
 [18Jul2025 00:15:05.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135614, l='ServerLevel[world]', x=-6214.51, y=66.19, z=1547.46] died, message: 'Unemployed suffocated in a wall'
 [18Jul2025 00:15:05.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/135615, l='ServerLevel[world]', x=-6209.50, y=64.44, z=1542.70] died, message: 'Shepherd suffocated in a wall'
+[18Jul2025 01:02:21.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[18Jul2025 01:11:31.927] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}

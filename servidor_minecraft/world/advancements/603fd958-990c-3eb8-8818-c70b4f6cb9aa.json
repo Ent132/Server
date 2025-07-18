@@ -96,6 +96,7 @@
       "minecraft:deep_cold_ocean": "2025-07-16 01:53:45 +0000",
       "minecraft:frozen_ocean": "2025-07-18 00:13:33 +0000",
       "minecraft:desert": "2025-07-17 04:11:04 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-18 01:01:12 +0000",
       "minecraft:jungle": "2025-06-26 06:36:21 +0000",
       "minecraft:ocean": "2025-07-15 00:25:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-14 04:13:07 +0000",
@@ -947,6 +948,7 @@
       "ochard": "2025-07-14 09:17:16 +0000",
       "flower_fields": "2025-07-18 00:05:48 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
+      "maple_forest": "2025-07-18 01:11:24 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
       "outback": "2025-07-17 03:33:43 +0000",
@@ -966,6 +968,7 @@
       "grassland": "2025-07-15 23:01:29 +0000",
       "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
+      "hyacinth_deeps": "2025-07-18 01:07:17 +0000",
       "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
@@ -987,6 +990,7 @@
       "ochard": "2025-07-14 09:17:16 +0000",
       "flower_fields": "2025-07-18 00:05:48 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
+      "maple_forest": "2025-07-18 01:11:24 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
       "outback": "2025-07-17 03:33:43 +0000",
@@ -1003,6 +1007,7 @@
       "grassland": "2025-07-15 23:01:29 +0000",
       "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
+      "hyacinth_deeps": "2025-07-18 01:07:17 +0000",
       "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
@@ -2396,6 +2401,7 @@
       "minecraft:ravager": "2025-07-14 02:09:21 +0000",
       "minecraft:ghast": "2025-07-16 23:59:51 +0000",
       "minecraft:hoglin": "2025-07-14 04:31:21 +0000",
+      "minecraft:guardian": "2025-07-18 01:01:45 +0000",
       "minecraft:vindicator": "2025-07-13 02:45:19 +0000",
       "minecraft:magma_cube": "2025-07-16 01:38:24 +0000",
       "minecraft:spider": "2025-07-13 03:09:52 +0000",
@@ -13404,15 +13410,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-18 01:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-18 00:11:31 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-07-18 01:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-18 01:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-07-18 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-18 01:02:12 +0000"
     },
     "done": true
   },
