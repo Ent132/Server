@@ -13398,12 +13398,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-18 00:30:44 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-07-18 00:04:15 +0000"
