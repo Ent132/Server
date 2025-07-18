@@ -914,6 +914,7 @@
       "pasture": "2025-07-15 23:06:22 +0000",
       "volcanic_plains": "2025-07-13 04:03:03 +0000",
       "lavender_field": "2025-07-13 04:29:01 +0000",
+      "fir_clearing": "2025-07-18 00:06:55 +0000",
       "prairie": "2025-07-13 04:24:40 +0000",
       "grassland": "2025-07-16 00:53:15 +0000",
       "glowing_grotto": "2025-07-17 04:35:27 +0000",
@@ -924,6 +925,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-07-18 00:03:53 +0000",
       "shrubland": "2025-07-12 23:02:05 +0000",
       "dry_bushland": "2025-07-17 03:56:40 +0000",
       "pine_taiga": "2025-07-15 06:46:56 +0000",
@@ -937,6 +939,7 @@
       "blackwood_taiga": "2025-07-16 01:15:57 +0000",
       "mycotoxic_undergrowth": "2025-07-16 22:25:36 +0000",
       "ochard": "2025-07-14 09:17:16 +0000",
+      "flower_fields": "2025-07-18 00:05:48 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
@@ -964,6 +967,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-07-18 00:03:53 +0000",
       "shrubland": "2025-07-12 23:02:05 +0000",
       "dry_bushland": "2025-07-17 03:56:40 +0000",
       "pine_taiga": "2025-07-15 06:46:56 +0000",
@@ -975,6 +979,7 @@
       "rocky_meadow": "2025-07-12 23:02:04 +0000",
       "blackwood_taiga": "2025-07-16 01:15:57 +0000",
       "ochard": "2025-07-14 09:17:16 +0000",
+      "flower_fields": "2025-07-18 00:05:48 +0000",
       "highland_fields": "2025-07-16 01:44:07 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
@@ -13384,6 +13389,12 @@
   "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_rope_bridge_stair_recycle": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-18 00:04:15 +0000"
     },
     "done": true
   },
