@@ -10825,57 +10825,171 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_stable_head_door": {
+  "dungeons_arise:find_bandit_towers": {
     "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
+      "location0": "2025-07-17 02:05:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_log": "2025-07-17 06:02:00 +0000"
+      "has_iron_nugget": "2025-07-17 02:22:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "supplementaries:recipes/sconce_soul": {
     "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+      "has_iron_nugget": "2025-07-17 02:22:15 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_lower_roof": {
+  "dungeons_arise:find_shiraz_palace": {
     "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
+      "location0": "2025-07-17 03:38:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
+  "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+      "has_any_ingredient": "2025-07-17 04:01:19 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "travelersbackpack:recipes/misc/cactus": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "mcwbridges:recipes/deepslate_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:43:09 +0000"
+      "has_cactus": "2025-07-17 04:12:53 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_log_window2": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
+      "has_blue_orchid": "2025-07-17 04:12:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+      "has_cactus": "2025-07-17 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-17 04:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-07-17 04:25:40 +0000"
     },
     "done": true
   },
@@ -10885,9 +10999,21 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_swamp_trapdoor": {
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
+      "has_logs": "2025-07-17 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
@@ -10903,39 +11029,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_attic_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/fd/regions_unexplored/redwood_cabinet": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "cataclysm:kill_harbinger": {
-    "criteria": {
-      "theharbinger": "2025-07-17 04:48:46 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-07-17 05:24:26 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/regions_unexplored/redwood_barn_trapdoor": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_modern_wardrobe": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -10951,27 +11053,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_wired_fence": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_top_roof": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_modern_wardrobe": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
-    "criteria": {
-      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -10981,33 +11065,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_bookshelf_cupboard": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_parapet": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/mauve_wood": {
-    "criteria": {
-      "has_log": "2025-07-17 06:17:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11017,33 +11077,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_covered_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_barn_glass_door": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-07-17 04:12:53 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_log_window": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11053,69 +11089,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_stockade_fence": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_double_wardrobe": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcl/regions_unexplored/mauve_ceiling_fan_light": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_roof": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_shiraz_palace": {
-    "criteria": {
-      "location0": "2025-07-17 03:38:43 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_stool_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11131,12 +11113,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_striped_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_redwood_planks": "2025-07-17 04:32:30 +0000"
@@ -11149,39 +11125,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_barn_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_beach_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_upper_lower_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_log_bridge_stair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_double_drawer_counter": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/display_case": {
-    "criteria": {
-      "has_item_frame": "2025-07-17 05:49:12 +0000"
     },
     "done": true
   },
@@ -11191,57 +11137,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_coffee_table": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_ranch_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_fence": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_stable_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_stool_chair": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcp/regions_unexplored/mauve_planks_path": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_pyramid_gate": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-07-17 04:12:53 +0000"
     },
     "done": true
   },
@@ -11257,27 +11155,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_picket_fence": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_lower_triple_drawer": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11287,21 +11167,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_drawer_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/regions_unexplored/redwood_beach_trapdoor": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_modern_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11311,45 +11179,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_blossom_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_log_four_window": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_bookshelf_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
     },
     "done": true
   },
@@ -11359,57 +11191,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/redstone/mauve_door": {
-    "criteria": {
-      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_wardrobe": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_japanese2_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/bamboo_planks": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_slab": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_pane_window": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_glass_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11425,36 +11209,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_cupboard_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_steep_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_triple_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2025-07-17 04:45:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_bamboo_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_pyramid_gate": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -11467,69 +11221,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_rail_bridge": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_button": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_shutter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_classic_door": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_four_panel_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_wardrobe": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "sneak_grove": "2025-07-17 05:41:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-07-17 04:44:15 +0000"
     },
     "done": true
   },
@@ -11539,21 +11239,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/sandstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcb/regions_unexplored/rope_redwood_bridge": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_window2": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11563,39 +11251,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_mystic_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_bookshelf": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_pane_window": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_classic_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/redwood_terrace_stairs": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
     },
     "done": true
   },
@@ -11611,33 +11275,9 @@
     },
     "done": true
   },
-  "suppsquared:recipes/decorations/item_shelf_bamboo": {
-    "criteria": {
-      "has_item": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-07-17 04:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-17 02:22:15 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_coffee_table": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
     },
     "done": true
   },
@@ -11647,69 +11287,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_attic_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
-    "criteria": {
-      "has_log": "2025-07-17 06:17:54 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_striped_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_bark_glass_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_bookshelf": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_drawer_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_upper_steep_roof": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_lower_triple_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_bark_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_platform": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11731,45 +11311,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_pane_window": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_barrel_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_double_drawer_counter": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_modern_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
     },
     "done": true
   },
@@ -11779,39 +11323,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_waffle_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-17 04:46:37 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_chair": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/mauve_planks": {
-    "criteria": {
-      "has_logs": "2025-07-17 06:17:54 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_steep_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_barn_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11827,12 +11341,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcl/regions_unexplored/soul_mauve_tiki_torch": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_bridge_pier": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -11842,24 +11350,6 @@
   "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_shutter": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_rope_bridge_stair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_four_window": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
     },
     "done": true
   },
@@ -11875,33 +11365,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_double_drawer_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/sandstone": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_plank_window": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_wardrobe": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_plank_parapet": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -11911,45 +11377,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-07-17 04:32:23 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/redwood_balcony": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-07-17 04:45:33 +0000"
-    },
-    "done": true
-  },
   "suppsquared:recipes/decorations/regions_unexplored/item_shelf_redwood": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/bamboo_sign": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
     },
     "done": true
   },
@@ -11965,24 +11401,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_tropical_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_upper_steep_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_four_panel_door": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -11995,27 +11413,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-07-17 04:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/regions_unexplored/redwood_bark_trapdoor": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_railing": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12025,57 +11425,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/regions_unexplored/redwood_mystic_trapdoor": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_log_four_window": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_window": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_skyline_stairs": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_balcony": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_end_table": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_plank_pane_window": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12091,21 +11449,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bandit_village": {
-    "criteria": {
-      "location0": "2025-07-17 05:28:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/redwood_platform": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_modern_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12127,45 +11473,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_double_wardrobe": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_double_wardrobe": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/redwood_railing": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_cottage_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_glass_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_bookshelf": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_glass_table": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12187,51 +11503,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
-    "criteria": {
-      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_bookshelf_cupboard": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
-    "criteria": {
-      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_attic_roof": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_blinds": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bandit_towers": {
-    "criteria": {
-      "location0": "2025-07-17 02:05:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_wardrobe": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_cupboard_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12241,33 +11515,9 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-07-17 06:11:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/regions_unexplored/item_shelf_mauve": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12283,45 +11533,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_bookshelf_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/redwood_skyline_stairs": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "mcwpaths:recipes/sandstone": {
-    "criteria": {
-      "has_wood": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_drawer": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_paper_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_barn_glass_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12337,18 +11557,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_swamp_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_end_table": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_barn_door": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -12361,63 +11569,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-07-17 06:02:00 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_covered_desk": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_loft_stairs": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
-    "criteria": {
-      "has_hyssop": "2025-07-17 05:54:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-17 04:01:19 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_upper_steep_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_rope_bridge_stair": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_compact_stairs": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12439,12 +11599,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/regions_unexplored/redwood_paper_trapdoor": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -12457,18 +11611,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_paper_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_tropical_door": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
@@ -12478,18 +11620,6 @@
   "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_four_window": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_double_drawer_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_mystic_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12511,57 +11641,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_double_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_beach_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fd/regions_unexplored/mauve_cabinet": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/redwood_door": {
     "criteria": {
       "has_redwood_planks": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_covered_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_bamboo": {
-    "criteria": {
-      "has_item": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-07-17 04:45:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-07-17 04:48:29 +0000"
     },
     "done": true
   },
@@ -12577,81 +11659,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcb/regions_unexplored/rope_mauve_bridge": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/redwood_loft_stairs": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/mauve_button": {
-    "criteria": {
-      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_classic_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_glass_table": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/sandstone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/sandstone": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_modern_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_cottage_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_terrace_stairs": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12667,63 +11683,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_top_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_large_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_highley_gate": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_log_bridge_middle": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_triple_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_end_table": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
-    "criteria": {
-      "has_daisy": "2025-07-17 06:03:23 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcp/regions_unexplored/redwood_planks_path": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_lower_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12733,39 +11695,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_table": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_triple_drawer": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_log_parapet": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
     },
     "done": true
   },
@@ -12775,39 +11707,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_bamboo_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_end_table": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/mauve_sign": {
-    "criteria": {
-      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_tropical_door": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
@@ -12841,21 +11743,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_pane_window": {
     "criteria": {
       "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-07-17 04:25:06 +0000"
     },
     "done": true
   },
@@ -12907,11 +11797,1397 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_western_door": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_barrel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_cottage_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_ranch_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_log_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_japanese_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_swamp_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_log_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_window": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_rail_bridge": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_nether_door": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_large_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_classic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-07-17 04:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-17 04:44:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-07-17 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-07-17 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-17 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-17 04:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-17 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-07-17 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:the_harbinger": "2025-07-17 04:48:46 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo_planks": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_bamboo": {
+    "criteria": {
+      "has_item": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_bamboo": {
+    "criteria": {
+      "has_item": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo_mosaic": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_bamboo": {
+    "criteria": {
+      "has_the_recipe": "2025-07-17 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-17 05:24:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-07-17 05:28:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-07-17 05:41:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-07-17 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-07-17 05:54:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
+    "criteria": {
+      "has_meadow_sage": "2025-07-17 05:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-17 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-07-17 06:02:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-07-17 06:03:23 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-17 06:11:23 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-07-17 06:15:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 06:17:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2025-07-17 06:17:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2025-07-17 06:17:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_stable_head_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_log_window2": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_swamp_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_wired_fence": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_log_window": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_stockade_fence": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/mauve_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_stool_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_barn_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_beach_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_log_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_coffee_table": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_ranch_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_stable_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcp/regions_unexplored/mauve_planks_path": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_pyramid_gate": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_picket_fence": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_modern_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_japanese2_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_bamboo_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_rail_bridge": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_shutter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_four_panel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_window2": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_mystic_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_classic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_bark_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_lower_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_bark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_platform": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_barrel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_modern_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_waffle_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_barn_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/soul_mauve_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_rope_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_four_window": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_plank_window": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_plank_parapet": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_chair": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_tropical_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_railing": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_mauve_log_four_window": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_window": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_skyline_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_balcony": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_plank_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_cottage_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_glass_table": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_blinds": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/regions_unexplored/item_shelf_mauve": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_paper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_barn_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_swamp_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_end_table": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_loft_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_compact_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_paper_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_mystic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_double_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_beach_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/mauve_cabinet": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/rope_mauve_bridge": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_classic_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_counter": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_cottage_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/mauve_terrace_stairs": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_top_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_large_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_highley_gate": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_log_bridge_middle": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_end_table": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_table": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_log_parapet": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_drawer": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/mauve_bamboo_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_tropical_door": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_roof": {
+    "criteria": {
+      "has_item": "2025-07-17 06:18:55 +0000"
+    },
+    "done": true
   },
   "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_plank_window2": {
     "criteria": {
@@ -12943,75 +13219,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_western_door": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2025-07-17 06:02:48 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_japanese_door": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_sandstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_barrel_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/mauve_planks_top_roof": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_cottage_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_bookshelf_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/bamboo_mosaic": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_blossom_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
@@ -13033,95 +13249,11 @@
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-07-17 04:35:56 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_mauve": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_ranch_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-17 06:02:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 06:26:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2025-07-17 05:09:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_log_bridge_stair": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcl/regions_unexplored/redwood_tiki_torch": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-07-17 04:12:53 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_modern_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_japanese_door": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_all_bosses": {
-    "criteria": {
-      "cataclysm:the_harbinger": "2025-07-17 04:48:46 +0000"
-    },
-    "done": false
   },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_lower_bookshelf_drawer": {
     "criteria": {
@@ -13135,51 +13267,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_bookshelf": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
-    "criteria": {
-      "has_meadow_sage": "2025-07-17 05:54:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_door": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_swamp_door": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_double_drawer": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_redwood_log_window": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
@@ -13195,18 +13285,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_redwood_planks": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_planks_upper_lower_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_desk": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
@@ -13219,45 +13297,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/mauve_louvered_shutter": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_striped_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_horse_fence": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/bamboo": {
-    "criteria": {
-      "has_wood": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcw/regions_unexplored/redwood_plank_window": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_covered_desk": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
@@ -13273,21 +13321,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_bamboo": {
-    "criteria": {
-      "has_the_recipe": "2025-07-17 04:48:56 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_four_panel_door": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcb/regions_unexplored/redwood_rail_bridge": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
@@ -13297,33 +13333,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_light_blue_terracotta": "2025-07-17 04:25:40 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_bridge_pier": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-07-17 04:32:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-17 04:40:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
     },
     "done": true
   },
@@ -13345,87 +13357,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_nether_door": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_drawer_counter": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_modern_wardrobe": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-17 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/redwood_striped_chair": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 04:19:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcr/regions_unexplored/redwood_upper_steep_roof": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-17 02:22:15 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/redwood_nether_door": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_redwood_large_drawer": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_pillager_outpost": {
-    "criteria": {
-      "minecraft:pillager_outpost": "2025-07-17 06:15:58 +0000"
     },
     "done": true
   },
@@ -13450,12 +13384,6 @@
   "everycomp:recipes/decorations/mcb/regions_unexplored/mauve_rope_bridge_stair_recycle": {
     "criteria": {
       "has_item": "2025-07-17 06:18:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mct/regions_unexplored/redwood_classic_trapdoor": {
-    "criteria": {
-      "has_item": "2025-07-17 04:32:30 +0000"
     },
     "done": true
   },
