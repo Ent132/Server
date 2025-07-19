@@ -2353,7 +2353,8 @@
       "minecraft:cave_spider": "2025-07-13 03:00:51 +0000",
       "minecraft:silverfish": "2025-07-13 02:59:20 +0000",
       "minecraft:zombie": "2025-07-12 23:37:33 +0000",
-      "minecraft:drowned": "2025-07-12 23:58:41 +0000"
+      "minecraft:drowned": "2025-07-12 23:58:41 +0000",
+      "minecraft:zombie_villager": "2025-07-19 06:29:28 +0000"
     },
     "done": false
   },
@@ -6664,9 +6665,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-19 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-07-19 06:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-07-19 06:19:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-19 06:32:05 +0000"
     },
     "done": true
   },
