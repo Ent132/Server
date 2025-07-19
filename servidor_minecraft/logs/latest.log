@@ -1,18 +1,18 @@
-[18Jul2025 04:52:09.154] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[18Jul2025 04:52:09.157] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[18Jul2025 04:52:10.795] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[18Jul2025 04:52:10.866] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[18Jul2025 04:52:11.399] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[18Jul2025 04:52:11.407] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[18Jul2025 04:52:11.408] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[18Jul2025 04:52:11.409] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[18Jul2025 04:52:11.668] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[18Jul2025 04:52:11.669] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[18Jul2025 04:52:14.609] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Jul2025 04:52:14.813] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[18Jul2025 04:52:14.815] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18Jul2025 04:52:14.952] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Jul2025 04:52:15.061] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
+[19Jul2025 05:06:59.639] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[19Jul2025 05:06:59.644] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[19Jul2025 05:07:01.128] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Jul2025 05:07:01.198] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[19Jul2025 05:07:01.534] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[19Jul2025 05:07:01.545] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[19Jul2025 05:07:01.546] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[19Jul2025 05:07:01.547] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[19Jul2025 05:07:01.801] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[19Jul2025 05:07:01.803] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[19Jul2025 05:07:04.303] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Jul2025 05:07:04.464] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[19Jul2025 05:07:04.466] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Jul2025 05:07:04.617] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jul2025 05:07:04.698] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
 	- addonslib 1.20.1-1.4
 	- amendments 1.20-1.2.19
 	- animal_feeding_trough 1.1.0+1.20.1-forge
@@ -83,248 +83,213 @@
 	- travelersbackpack 9.1.39
 	- waystones 14.1.13
 	- yungsapi 1.20-Forge-4.0.6
-[18Jul2025 04:52:16.910] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/equipment/armor/BacktankBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.equipment.armor.BacktankBlockEntity)
-[18Jul2025 04:52:16.910] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.equipment.armor.BacktankBlockEntity was not found jadeaddons.mixins.json:create.BacktankBlockEntityAccess
-[18Jul2025 04:52:17.106] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18Jul2025 04:52:24.579] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[18Jul2025 04:52:24.579] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[18Jul2025 04:52:24.753] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[18Jul2025 04:52:25.080] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[18Jul2025 04:52:25.081] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[18Jul2025 04:52:25.086] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[18Jul2025 04:52:25.089] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[18Jul2025 04:52:25.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[18Jul2025 04:52:25.094] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[18Jul2025 04:52:25.099] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[18Jul2025 04:52:25.100] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[18Jul2025 04:52:25.777] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[18Jul2025 04:52:25.777] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[18Jul2025 04:52:26.843] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[18Jul2025 04:52:26.845] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
-[18Jul2025 04:52:26.854] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
-[18Jul2025 04:52:27.049] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
-[18Jul2025 04:52:27.164] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[18Jul2025 04:52:27.486] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
-[18Jul2025 04:52:27.596] [modloading-worker-0/INFO] [Animal Feeding Trough/]: [Animal Feeding Trough] Load Complete! Enjoy :D
-[18Jul2025 04:52:27.728] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[18Jul2025 04:52:27.746] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[18Jul2025 04:52:32.595] [main/INFO] [Moonlight/]: Initialized block sets in 32ms
-[18Jul2025 04:52:32.605] [main/INFO] [Every Compat/]: Registering Compat WoodType Blocks
-[18Jul2025 04:52:32.611] [main/INFO] [Every Compat/]: [module: farmersdelight]: registered 35 WoodType blocks
-[18Jul2025 04:52:32.614] [main/INFO] [Every Compat/]: [module: regions_unexplored]: registered 13 WoodType blocks
-[18Jul2025 04:52:32.652] [main/INFO] [Every Compat/]: [module: mcwbridges]: registered 140 WoodType blocks
-[18Jul2025 04:52:33.033] [main/INFO] [Every Compat/]: [module: mcwdoors]: registered 504 WoodType blocks
-[18Jul2025 04:52:33.100] [main/INFO] [Every Compat/]: [module: mcwfences]: registered 142 WoodType blocks
-[18Jul2025 04:52:33.757] [main/INFO] [Every Compat/]: [module: mcwfurnitures]: registered 1200 WoodType blocks
-[18Jul2025 04:52:33.769] [main/INFO] [Every Compat/]: [module: mcwlights]: registered 109 WoodType blocks
-[18Jul2025 04:52:33.770] [main/INFO] [Every Compat/]: [module: mcwpaths]: registered 24 WoodType blocks
-[18Jul2025 04:52:33.852] [main/INFO] [Every Compat/]: [module: mcwroofs]: registered 336 WoodType blocks
-[18Jul2025 04:52:34.043] [main/INFO] [Every Compat/]: [module: mcwtrpdoors]: registered 382 WoodType blocks
-[18Jul2025 04:52:34.124] [main/INFO] [Every Compat/]: [module: mcwwindows]: registered 398 WoodType blocks
-[18Jul2025 04:52:34.143] [main/INFO] [Every Compat/]: [module: mcwstairs]: registered 176 WoodType blocks
-[18Jul2025 04:52:34.144] [main/INFO] [Every Compat/]: Registering Compat LeavesType Blocks
-[18Jul2025 04:52:34.146] [main/INFO] [Every Compat/]: [module: regions_unexplored]: registered 17 LeavesType blocks
-[18Jul2025 04:52:34.175] [main/INFO] [Every Compat/]: [module: mcwfences]: registered 31 LeavesType blocks
-[18Jul2025 04:52:35.351] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[18Jul2025 04:52:35.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[18Jul2025 04:52:35.477] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[18Jul2025 04:52:35.477] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[18Jul2025 04:52:35.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[18Jul2025 04:52:35.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[18Jul2025 04:52:35.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 2.3.0 Target: 2.4.0
-[18Jul2025 04:52:35.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[18Jul2025 04:52:35.549] [main/INFO] [journeymap/]: Initializing Packet Registries
-[18Jul2025 04:52:35.594] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[18Jul2025 04:52:35.594] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[18Jul2025 04:52:35.595] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[18Jul2025 04:52:35.595] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[18Jul2025 04:52:35.647] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 3, 0, 1, 0, 0, 21, 9, 1] ms
-[18Jul2025 04:52:35.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.7+mod Target: null
-[18Jul2025 04:52:35.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
-[18Jul2025 04:52:35.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[18Jul2025 04:52:35.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[18Jul2025 04:52:35.764] [main/INFO] [Moonlight/]: Initialized color sets in 103ms
-[18Jul2025 04:52:35.768] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[18Jul2025 04:52:35.768] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[18Jul2025 04:52:35.768] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[18Jul2025 04:52:35.768] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[18Jul2025 04:52:35.769] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[18Jul2025 04:52:35.780] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
-[18Jul2025 04:52:35.780] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
-[18Jul2025 04:52:35.780] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
-[18Jul2025 04:52:35.780] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 2 for type NETHER
-[18Jul2025 04:52:35.781] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 3 for type NETHER
-[18Jul2025 04:52:35.784] [main/WARN] [Every Compat/]: Registered 3507 compat children making up 29.06% of total children registered
-[18Jul2025 04:52:35.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[18Jul2025 04:52:35.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[18Jul2025 04:52:35.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
-[18Jul2025 04:52:35.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[18Jul2025 04:52:35.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[18Jul2025 04:52:35.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[18Jul2025 04:52:35.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[18Jul2025 04:52:35.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[18Jul2025 04:52:35.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[18Jul2025 04:52:35.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Jul2025 04:52:35.942] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[18Jul2025 04:52:35.958] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[18Jul2025 04:52:35.959] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[18Jul2025 04:52:35.961] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[18Jul2025 04:52:35.986] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[18Jul2025 04:52:35.993] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[18Jul2025 04:52:35.995] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[18Jul2025 04:52:35.996] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[18Jul2025 04:52:35.997] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
-[18Jul2025 04:52:36.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[18Jul2025 04:52:36.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[18Jul2025 04:52:36.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.31 Target: null
-[18Jul2025 04:52:36.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
-[18Jul2025 04:52:36.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[18Jul2025 04:52:36.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[18Jul2025 04:52:36.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[18Jul2025 04:52:36.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[18Jul2025 04:52:36.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
-[18Jul2025 04:52:36.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[18Jul2025 04:52:36.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.11 Target: null
-[18Jul2025 04:52:36.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
-[18Jul2025 04:52:36.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[18Jul2025 04:52:36.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[18Jul2025 04:52:36.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
-[18Jul2025 04:52:36.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[18Jul2025 04:52:37.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[18Jul2025 04:52:37.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[18Jul2025 04:52:37.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[18Jul2025 04:52:37.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[18Jul2025 04:52:37.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.8 Target: 9.0.3
-[18Jul2025 04:52:37.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
-[18Jul2025 04:52:37.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.2 Target: null
-[18Jul2025 04:52:37.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[18Jul2025 04:52:37.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[18Jul2025 04:52:37.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[18Jul2025 04:52:37.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[18Jul2025 04:52:37.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[18Jul2025 04:52:37.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[18Jul2025 04:52:42.525] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Jul2025 04:52:48.006] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
-[18Jul2025 04:52:48.007] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
-[18Jul2025 04:52:48.126] [pool-3-thread-1/INFO] [Every Compat/]: Dynamic server resources generation tasks: 152 in batches of: 38
-[18Jul2025 04:52:48.408] [pool-3-thread-7/ERROR] [Moonlight/]: Could not find resource mcwstairs:loot_tables/blocks/oak_balcony.json
-[18Jul2025 04:52:48.502] [pool-3-thread-1/INFO] [Every Compat/]: Tasks finished in: 375 ms
-[18Jul2025 04:52:48.554] [pool-3-thread-1/INFO] [Every Compat/]: Generated runtime SERVER_DATA for pack Everycomp Generated Pack (everycomp) in: 427 ms (multithreaded)
-[18Jul2025 04:52:48.555] [pool-3-thread-1/INFO] [Every Compat/]: Dynamic server assets generation took: 431.6 ms
-[18Jul2025 04:52:48.555] [main/INFO] [Moonlight/]: Generated runtime resources for 3 packs in a total of: 433 ms
-[18Jul2025 04:52:50.683] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: cataclysm:ceraunus (from L_Enders_Cataclysm-3.04.jar)
-[18Jul2025 04:52:50.790] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.8.jar
-[18Jul2025 04:52:52.897] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[18Jul2025 04:52:52.960] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[18Jul2025 04:52:52.983] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[18Jul2025 04:52:53.318] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[18Jul2025 04:52:53.613] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8525 advancements
-[18Jul2025 04:52:53.639] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[18Jul2025 04:52:53.658] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[18Jul2025 04:52:53.666] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[18Jul2025 04:52:58.487] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[18Jul2025 04:52:58.597] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[18Jul2025 04:52:58.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[18Jul2025 04:52:58.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Jul2025 04:52:58.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Jul2025 04:52:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Jul2025 04:52:59.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Jul2025 04:52:59.066] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Jul2025 04:52:59.139] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Jul2025 04:52:59.140] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Jul2025 04:52:59.140] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Jul2025 04:52:59.140] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Jul2025 04:52:59.157] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[18Jul2025 04:52:59.159] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[18Jul2025 04:52:59.159] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[18Jul2025 04:52:59.162] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[18Jul2025 04:52:59.163] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[18Jul2025 04:52:59.163] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[18Jul2025 04:52:59.165] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[18Jul2025 04:52:59.929] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[18Jul2025 04:52:59.930] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[18Jul2025 04:52:59.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Jul2025 04:53:05.091] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "lionfishapi:modded".
-[18Jul2025 04:53:05.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Jul2025 04:53:06.120] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:06.123] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:06.133] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:06.622] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:07.104] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:07.600] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:08.096] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:08.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:09.099] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 04:53:09.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[18Jul2025 04:53:10.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[18Jul2025 04:53:10.593] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[18Jul2025 04:53:11.099] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18Jul2025 04:53:11.594] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[18Jul2025 04:53:12.037] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6945 ms
-[18Jul2025 04:53:12.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.886s)! For help, type "help"
-[18Jul2025 04:53:12.128] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Jul2025 04:53:12.289] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[18Jul2025 04:53:37.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:59581] logged in with entity id 406 at (-9612.300000011921, 46.64735704753046, 22263.621289504343)
-[18Jul2025 04:53:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
-[18Jul2025 04:53:37.696] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
-[18Jul2025 04:53:44.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6701ms or 134 ticks behind
-[18Jul2025 04:55:59.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
-[18Jul2025 04:56:48.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 blew up
-[18Jul2025 04:56:49.318] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
-[18Jul2025 05:03:09.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6879, l='ServerLevel[world]', x=-435.30, y=56.30, z=425.70] died, message: 'Librarian drowned'
-[18Jul2025 05:03:57.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6863, l='ServerLevel[world]', x=-433.30, y=24.30, z=424.70] died, message: 'Librarian blew up'
-[18Jul2025 05:03:57.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6866, l='ServerLevel[world]', x=-437.50, y=24.00, z=423.50] died, message: 'Fletcher blew up'
-[18Jul2025 05:03:57.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6872, l='ServerLevel[world]', x=-433.30, y=24.36, z=424.11] died, message: 'Librarian blew up'
-[18Jul2025 05:04:01.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 blew up
-[18Jul2025 05:04:01.923] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
-[18Jul2025 05:15:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Waterworld]
-[18Jul2025 05:32:39.160] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
-[18Jul2025 05:42:51.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
-[18Jul2025 05:43:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Frosted Prison]
-[18Jul2025 05:55:14.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/126427, l='ServerLevel[world]', x=-9687.45, y=76.00, z=23562.63] died, message: 'Farmer was slain by Royal Draugr'
-[18Jul2025 05:58:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [Crusade Against Curse]
-[18Jul2025 06:59:12.963] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=823, y=-18, z=-200}
-[18Jul2025 06:59:12.964] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=821, y=-18, z=-198}
-[18Jul2025 06:59:13.186] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=826, y=-19, z=-201}
-[18Jul2025 06:59:13.187] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=830, y=-19, z=-198}
-[18Jul2025 06:59:14.642] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=823, y=-19, z=-195}
-[18Jul2025 06:59:14.643] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=824, y=-19, z=-193}
-[18Jul2025 06:59:14.643] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=823, y=-19, z=-193}
-[18Jul2025 06:59:14.643] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=824, y=-19, z=-195}
-[18Jul2025 06:59:14.682] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=825, y=-19, z=-195}
-[18Jul2025 07:01:24.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[18Jul2025 07:01:24.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 2.616180798976984,-3.352688186584473,-9.149369822774815
-[18Jul2025 07:04:43.950] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
-[18Jul2025 07:04:44.081] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
-[18Jul2025 07:07:29.227] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
-[18Jul2025 07:08:30.070] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
-[18Jul2025 07:08:30.072] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
-[18Jul2025 07:12:46.691] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:46.710] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:46.770] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:46.797] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:46.889] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:47.037] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:47.085] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:47.088] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:12:47.143] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[18Jul2025 07:13:36.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36903ms or 738 ticks behind
-[18Jul2025 07:13:36.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
-[18Jul2025 07:13:36.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
-[18Jul2025 07:13:48.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:34489] logged in with entity id 599839 at (3533.017533069802, 54.71788051690779, -3979.639619047506)
-[18Jul2025 07:13:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
-[18Jul2025 07:13:48.952] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
-[18Jul2025 07:17:28.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Eye Spy]
-[18Jul2025 07:25:58.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
-[18Jul2025 07:25:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
-[18Jul2025 07:26:06.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Jul2025 07:26:06.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Jul2025 07:26:06.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Jul2025 07:26:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18Jul2025 07:26:06.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18Jul2025 07:26:06.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18Jul2025 07:26:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18Jul2025 07:26:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Jul2025 07:26:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Jul2025 07:26:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18Jul2025 07:26:07.632] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Jul2025 05:07:06.189] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/equipment/armor/BacktankBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.equipment.armor.BacktankBlockEntity)
+[19Jul2025 05:07:06.189] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.equipment.armor.BacktankBlockEntity was not found jadeaddons.mixins.json:create.BacktankBlockEntityAccess
+[19Jul2025 05:07:06.353] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19Jul2025 05:07:12.603] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[19Jul2025 05:07:12.603] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[19Jul2025 05:07:12.795] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[19Jul2025 05:07:13.080] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Jul2025 05:07:13.082] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[19Jul2025 05:07:13.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[19Jul2025 05:07:13.093] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[19Jul2025 05:07:13.096] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[19Jul2025 05:07:13.099] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[19Jul2025 05:07:13.100] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[19Jul2025 05:07:13.102] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[19Jul2025 05:07:13.705] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[19Jul2025 05:07:13.706] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[19Jul2025 05:07:14.619] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[19Jul2025 05:07:14.622] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[19Jul2025 05:07:14.636] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
+[19Jul2025 05:07:14.814] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
+[19Jul2025 05:07:14.850] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[19Jul2025 05:07:15.159] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[19Jul2025 05:07:15.213] [modloading-worker-0/INFO] [Animal Feeding Trough/]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[19Jul2025 05:07:15.274] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[19Jul2025 05:07:15.309] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[19Jul2025 05:07:20.371] [main/INFO] [Moonlight/]: Initialized block sets in 38ms
+[19Jul2025 05:07:20.380] [main/INFO] [Every Compat/]: Registering Compat WoodType Blocks
+[19Jul2025 05:07:20.387] [main/INFO] [Every Compat/]: [module: farmersdelight]: registered 35 WoodType blocks
+[19Jul2025 05:07:20.390] [main/INFO] [Every Compat/]: [module: regions_unexplored]: registered 13 WoodType blocks
+[19Jul2025 05:07:20.425] [main/INFO] [Every Compat/]: [module: mcwbridges]: registered 140 WoodType blocks
+[19Jul2025 05:07:20.674] [main/INFO] [Every Compat/]: [module: mcwdoors]: registered 504 WoodType blocks
+[19Jul2025 05:07:20.739] [main/INFO] [Every Compat/]: [module: mcwfences]: registered 142 WoodType blocks
+[19Jul2025 05:07:21.484] [main/INFO] [Every Compat/]: [module: mcwfurnitures]: registered 1200 WoodType blocks
+[19Jul2025 05:07:21.497] [main/INFO] [Every Compat/]: [module: mcwlights]: registered 109 WoodType blocks
+[19Jul2025 05:07:21.499] [main/INFO] [Every Compat/]: [module: mcwpaths]: registered 24 WoodType blocks
+[19Jul2025 05:07:21.624] [main/INFO] [Every Compat/]: [module: mcwroofs]: registered 336 WoodType blocks
+[19Jul2025 05:07:21.877] [main/INFO] [Every Compat/]: [module: mcwtrpdoors]: registered 382 WoodType blocks
+[19Jul2025 05:07:22.003] [main/INFO] [Every Compat/]: [module: mcwwindows]: registered 398 WoodType blocks
+[19Jul2025 05:07:22.029] [main/INFO] [Every Compat/]: [module: mcwstairs]: registered 176 WoodType blocks
+[19Jul2025 05:07:22.029] [main/INFO] [Every Compat/]: Registering Compat LeavesType Blocks
+[19Jul2025 05:07:22.031] [main/INFO] [Every Compat/]: [module: regions_unexplored]: registered 17 LeavesType blocks
+[19Jul2025 05:07:22.065] [main/INFO] [Every Compat/]: [module: mcwfences]: registered 31 LeavesType blocks
+[19Jul2025 05:07:23.220] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[19Jul2025 05:07:23.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[19Jul2025 05:07:23.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[19Jul2025 05:07:23.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[19Jul2025 05:07:23.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[19Jul2025 05:07:23.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[19Jul2025 05:07:23.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 2.3.0 Target: 2.4.0
+[19Jul2025 05:07:23.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[19Jul2025 05:07:23.432] [main/INFO] [journeymap/]: Initializing Packet Registries
+[19Jul2025 05:07:23.467] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[19Jul2025 05:07:23.468] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[19Jul2025 05:07:23.468] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[19Jul2025 05:07:23.468] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[19Jul2025 05:07:23.513] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 3, 0, 1, 0, 0, 15, 11, 1] ms
+[19Jul2025 05:07:23.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.7+mod Target: null
+[19Jul2025 05:07:23.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[19Jul2025 05:07:23.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[19Jul2025 05:07:23.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[19Jul2025 05:07:23.638] [main/INFO] [Moonlight/]: Initialized color sets in 110ms
+[19Jul2025 05:07:23.643] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19Jul2025 05:07:23.643] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[19Jul2025 05:07:23.643] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[19Jul2025 05:07:23.643] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[19Jul2025 05:07:23.643] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[19Jul2025 05:07:23.654] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
+[19Jul2025 05:07:23.655] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
+[19Jul2025 05:07:23.655] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
+[19Jul2025 05:07:23.655] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 2 for type NETHER
+[19Jul2025 05:07:23.655] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 3 for type NETHER
+[19Jul2025 05:07:23.659] [main/WARN] [Every Compat/]: Registered 3507 compat children making up 29.06% of total children registered
+[19Jul2025 05:07:23.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[19Jul2025 05:07:23.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19Jul2025 05:07:23.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[19Jul2025 05:07:23.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[19Jul2025 05:07:23.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[19Jul2025 05:07:23.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[19Jul2025 05:07:23.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[19Jul2025 05:07:23.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[19Jul2025 05:07:23.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[19Jul2025 05:07:23.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Jul2025 05:07:23.789] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[19Jul2025 05:07:23.797] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[19Jul2025 05:07:23.798] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[19Jul2025 05:07:23.800] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[19Jul2025 05:07:23.812] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[19Jul2025 05:07:23.816] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[19Jul2025 05:07:23.818] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[19Jul2025 05:07:23.820] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[19Jul2025 05:07:23.821] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[19Jul2025 05:07:23.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[19Jul2025 05:07:23.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[19Jul2025 05:07:23.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.31 Target: null
+[19Jul2025 05:07:23.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[19Jul2025 05:07:23.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[19Jul2025 05:07:23.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[19Jul2025 05:07:23.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[19Jul2025 05:07:23.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[19Jul2025 05:07:24.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[19Jul2025 05:07:24.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[19Jul2025 05:07:24.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.11 Target: null
+[19Jul2025 05:07:24.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[19Jul2025 05:07:24.477] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[19Jul2025 05:07:24.477] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[19Jul2025 05:07:24.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[19Jul2025 05:07:24.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[19Jul2025 05:07:24.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[19Jul2025 05:07:24.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[19Jul2025 05:07:24.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[19Jul2025 05:07:24.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[19Jul2025 05:07:24.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.8 Target: 9.0.3
+[19Jul2025 05:07:24.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[19Jul2025 05:07:24.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.2 Target: null
+[19Jul2025 05:07:24.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[19Jul2025 05:07:24.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[19Jul2025 05:07:24.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[19Jul2025 05:07:24.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[19Jul2025 05:07:24.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[19Jul2025 05:07:24.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[19Jul2025 05:07:31.225] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Jul2025 05:07:38.233] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
+[19Jul2025 05:07:38.234] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
+[19Jul2025 05:07:38.364] [pool-3-thread-2/INFO] [Every Compat/]: Dynamic server resources generation tasks: 152 in batches of: 38
+[19Jul2025 05:07:38.707] [pool-3-thread-7/ERROR] [Moonlight/]: Could not find resource mcwstairs:loot_tables/blocks/oak_balcony.json
+[19Jul2025 05:07:38.895] [pool-3-thread-2/INFO] [Every Compat/]: Tasks finished in: 530 ms
+[19Jul2025 05:07:38.951] [pool-3-thread-2/INFO] [Every Compat/]: Generated runtime SERVER_DATA for pack Everycomp Generated Pack (everycomp) in: 585 ms (multithreaded)
+[19Jul2025 05:07:38.951] [pool-3-thread-2/INFO] [Every Compat/]: Dynamic server assets generation took: 589.4 ms
+[19Jul2025 05:07:38.951] [main/INFO] [Moonlight/]: Generated runtime resources for 3 packs in a total of: 591 ms
+[19Jul2025 05:07:41.247] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: cataclysm:ceraunus (from L_Enders_Cataclysm-3.04.jar)
+[19Jul2025 05:07:41.297] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.8.jar
+[19Jul2025 05:07:45.183] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[19Jul2025 05:07:45.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[19Jul2025 05:07:45.307] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[19Jul2025 05:07:45.575] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[19Jul2025 05:07:45.805] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8525 advancements
+[19Jul2025 05:07:45.829] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[19Jul2025 05:07:45.846] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[19Jul2025 05:07:45.853] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[19Jul2025 05:07:51.127] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[19Jul2025 05:07:51.242] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[19Jul2025 05:07:51.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[19Jul2025 05:07:51.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Jul2025 05:07:51.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Jul2025 05:07:51.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Jul2025 05:07:51.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Jul2025 05:07:51.781] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Jul2025 05:07:51.871] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Jul2025 05:07:51.871] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Jul2025 05:07:51.872] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Jul2025 05:07:51.872] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Jul2025 05:07:51.891] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[19Jul2025 05:07:51.893] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[19Jul2025 05:07:51.894] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[19Jul2025 05:07:51.894] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[19Jul2025 05:07:51.897] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Jul2025 05:07:51.898] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Jul2025 05:07:52.804] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19Jul2025 05:07:52.804] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19Jul2025 05:07:52.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Jul2025 05:07:58.093] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[19Jul2025 05:07:58.289] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "lionfishapi:modded".
+[19Jul2025 05:07:58.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Jul2025 05:08:00.805] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:00.834] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:00.849] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:00.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:00.863] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:00.879] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:01.480] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:01.625] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[19Jul2025 05:08:02.068] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:02.305] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:02.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 05:08:03.297] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[19Jul2025 05:08:03.793] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[19Jul2025 05:08:03.981] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5690 ms
+[19Jul2025 05:08:03.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.096s)! For help, type "help"
+[19Jul2025 05:08:04.060] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Jul2025 05:08:04.176] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[19Jul2025 05:08:21.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:59581] logged in with entity id 407 at (3454.4437788511195, 38.0, -4016.2224968802816)
+[19Jul2025 05:08:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
+[19Jul2025 05:08:21.436] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
+[19Jul2025 05:08:27.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6598ms or 131 ticks behind
+[19Jul2025 05:11:13.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.245.232.11:41465] logged in with entity id 13677 at (-674.5785673333297, 10.0, 661.4571921111043)
+[19Jul2025 05:11:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[19Jul2025 05:11:14.045] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[19Jul2025 05:12:03.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.193.50.182:33097] logged in with entity id 18596 at (-724.5214946618247, 64.0, 489.69402265403573)
+[19Jul2025 05:12:03.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[19Jul2025 05:12:03.822] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[19Jul2025 05:13:33.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Timed out
+[19Jul2025 05:13:33.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[19Jul2025 05:13:34.023] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 05:14:19.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.193.50.182:58827] logged in with entity id 33377 at (-731.8990375119618, 31.0, 521.8012570132823)
+[19Jul2025 05:14:19.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[19Jul2025 05:14:20.022] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[19Jul2025 05:15:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 blew up
+[19Jul2025 05:15:36.926] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[19Jul2025 05:17:54.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer blew up
+[19Jul2025 05:17:54.039] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[19Jul2025 05:20:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer burned to death
+[19Jul2025 05:20:17.024] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[19Jul2025 05:22:09.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
+[19Jul2025 05:22:09.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[19Jul2025 05:22:27.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.245.232.11:52281] logged in with entity id 91278 at (-689.310676463523, 64.0, 470.58649795766394)
+[19Jul2025 05:22:27.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[19Jul2025 05:22:27.135] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[19Jul2025 05:24:18.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
+[19Jul2025 05:29:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was doomed to fall by PussyDestroyer
+[19Jul2025 05:29:07.386] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
