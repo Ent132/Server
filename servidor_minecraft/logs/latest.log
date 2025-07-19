@@ -278,3 +278,6 @@
 [19Jul2025 20:47:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Miner Inconvenience]
 [19Jul2025 20:55:17.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
 [19Jul2025 20:55:17.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[19Jul2025 21:15:35.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:44979] logged in with entity id 247789 at (2110.791447513918, 47.0, -340.69999998807907)
+[19Jul2025 21:15:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
+[19Jul2025 21:15:35.500] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
