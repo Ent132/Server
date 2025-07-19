@@ -4544,3 +4544,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Jul2025 20:12:22.561] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [19Jul2025 20:12:22.564] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [19Jul2025 20:12:22.564] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[19Jul2025 20:13:47.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 20:13:48.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 20:17:33.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[19Jul2025 20:18:50.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 20:18:50.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 20:19:59.828] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_nugget" - querying recipes to get these
+[19Jul2025 20:19:59.842] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[19Jul2025 20:20:56.023] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[19Jul2025 20:21:51.170] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[19Jul2025 20:21:51.171] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[19Jul2025 20:21:51.172] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[19Jul2025 20:21:51.172] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[19Jul2025 20:21:51.172] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[19Jul2025 20:21:53.062] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[19Jul2025 20:21:53.063] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[19Jul2025 20:23:50.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 20:23:50.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 20:23:53.342] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[19Jul2025 20:25:02.350] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[19Jul2025 20:26:26.333] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[19Jul2025 20:27:56.338] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[19Jul2025 20:28:50.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 20:28:50.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 20:30:45.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/79683, l='ServerLevel[world]', x=1216.62, y=69.00, z=12.50] died, message: 'Fisherman was slain by Vindicator'
+[19Jul2025 20:33:50.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 20:33:50.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
