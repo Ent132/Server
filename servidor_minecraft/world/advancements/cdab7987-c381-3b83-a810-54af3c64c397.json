@@ -2352,6 +2352,7 @@
       "minecraft:creeper": "2025-07-16 23:50:58 +0000",
       "minecraft:cave_spider": "2025-07-13 03:00:51 +0000",
       "minecraft:silverfish": "2025-07-13 02:59:20 +0000",
+      "minecraft:enderman": "2025-07-19 07:22:58 +0000",
       "minecraft:zombie": "2025-07-12 23:37:33 +0000",
       "minecraft:drowned": "2025-07-12 23:58:41 +0000",
       "minecraft:zombie_villager": "2025-07-19 06:29:28 +0000"
@@ -6659,6 +6660,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-19 07:23:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_planks": "2025-07-19 06:42:23 +0000"
@@ -6767,6 +6774,12 @@
     },
     "done": true
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-07-19 07:22:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-07-19 06:32:05 +0000"
@@ -6818,6 +6831,12 @@
   "travelersbackpack:recipes/misc/blaze_smithing": {
     "criteria": {
       "has_blaze": "2025-07-19 06:57:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-19 07:23:14 +0000"
     },
     "done": true
   },

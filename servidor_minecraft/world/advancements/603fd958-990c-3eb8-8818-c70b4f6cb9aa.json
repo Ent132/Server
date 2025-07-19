@@ -13955,6 +13955,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/tools/hose": {
+    "criteria": {
+      "has_hose_nozzle": "2025-07-19 07:23:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-07-19 07:15:56 +0000"
