@@ -5909,7 +5909,8 @@
     "criteria": {
       "minecraft:sheep": "2025-07-14 06:31:02 +0000",
       "minecraft:cow": "2025-07-14 06:31:04 +0000",
-      "minecraft:chicken": "2025-07-14 06:20:37 +0000"
+      "minecraft:chicken": "2025-07-14 06:20:37 +0000",
+      "minecraft:panda": "2025-07-19 06:39:13 +0000"
     },
     "done": false
   },
@@ -6733,6 +6734,7 @@
       "mountains": "2025-07-15 03:18:55 +0000",
       "deciduous_forest": "2025-07-14 09:18:43 +0000",
       "boreal_forest": "2025-07-16 03:26:09 +0000",
+      "bamboo_forest": "2025-07-19 06:38:22 +0000",
       "temperate_grove": "2025-07-14 09:05:37 +0000",
       "pine_slopes": "2025-07-16 03:57:49 +0000",
       "grassland": "2025-07-14 09:10:18 +0000",
@@ -6756,6 +6758,7 @@
       "mountains": "2025-07-15 03:18:55 +0000",
       "deciduous_forest": "2025-07-14 09:18:43 +0000",
       "boreal_forest": "2025-07-16 03:26:09 +0000",
+      "bamboo_forest": "2025-07-19 06:38:22 +0000",
       "temperate_grove": "2025-07-14 09:05:37 +0000",
       "pine_slopes": "2025-07-16 03:57:49 +0000",
       "grassland": "2025-07-14 09:10:18 +0000",
@@ -8104,7 +8107,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "redwood_log": "2025-07-15 06:21:40 +0000"
+      "redwood_log": "2025-07-15 06:21:40 +0000",
+      "bamboo_log": "2025-07-19 06:38:50 +0000"
     },
     "done": false
   },
@@ -10037,6 +10041,12 @@
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-07-19 06:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 06:38:50 +0000"
     },
     "done": true
   },
