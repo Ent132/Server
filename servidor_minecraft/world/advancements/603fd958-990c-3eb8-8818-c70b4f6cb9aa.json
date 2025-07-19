@@ -973,6 +973,7 @@
       "highland_fields": "2025-07-16 01:44:07 +0000",
       "frozen_pine_taiga": "2025-07-18 01:33:58 +0000",
       "maple_forest": "2025-07-18 01:11:24 +0000",
+      "tropical_river": "2025-07-19 21:42:55 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
       "outback": "2025-07-17 03:33:43 +0000",
@@ -1026,6 +1027,7 @@
       "highland_fields": "2025-07-16 01:44:07 +0000",
       "frozen_pine_taiga": "2025-07-18 01:33:58 +0000",
       "maple_forest": "2025-07-18 01:11:24 +0000",
+      "tropical_river": "2025-07-19 21:42:55 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "eucalyptus_forest": "2025-07-17 03:36:49 +0000",
       "outback": "2025-07-17 03:33:43 +0000",
@@ -14116,6 +14118,48 @@
   "nova_structures:adventure/conquer_miner_outpost": {
     "criteria": {
       "kill_outpost_evoker": "2025-07-19 20:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
+    "criteria": {
+      "has_eucalyptus_sapling": "2025-07-19 21:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-07-19 21:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-19 21:42:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-19 21:50:04 +0000"
     },
     "done": true
   },
