@@ -4858,3 +4858,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Jul2025 22:53:54.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jul2025 22:55:26.739] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
 [19Jul2025 22:55:29.284] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_nugget" - querying recipes to get these
+[19Jul2025 22:58:54.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 22:58:54.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 23:00:18.833] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[19Jul2025 23:03:53.834] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:lapis_lazuli" - querying recipes to get these
+[19Jul2025 23:03:54.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 23:03:54.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
