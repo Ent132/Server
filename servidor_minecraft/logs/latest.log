@@ -3510,3 +3510,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 05:46:29.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.118.59.70:46527] logged in with entity id 267249 at (-684.1211772338806, 64.0, 512.8406788221091)
 [19Jul2025 05:46:29.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
 [19Jul2025 05:46:30.036] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[19Jul2025 05:49:01.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward froze to death
+[19Jul2025 05:49:01.076] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckHoward with unique ID travelersbackpack.standard_19.07.2025-05.49.01.dat
+[19Jul2025 05:49:01.103] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[19Jul2025 05:50:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Heliomancer]
+[19Jul2025 05:52:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer blew up
+[19Jul2025 05:52:10.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 blew up
+[19Jul2025 05:52:10.489] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[19Jul2025 05:52:10.489] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[19Jul2025 05:53:21.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer blew up
+[19Jul2025 05:53:21.276] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[19Jul2025 05:54:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer blew up
+[19Jul2025 05:54:42.020] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
