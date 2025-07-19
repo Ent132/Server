@@ -10141,3 +10141,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 07:39:46.200] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
 [19Jul2025 07:39:53.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [19Jul2025 07:40:12.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4264ms or 85 ticks behind
+[19Jul2025 07:40:32.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4974ms or 99 ticks behind
+[19Jul2025 07:40:55.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7211ms or 144 ticks behind
+[19Jul2025 07:41:17.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7158ms or 143 ticks behind
+[19Jul2025 07:41:41.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9071ms or 181 ticks behind
+[19Jul2025 07:42:06.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9812ms or 196 ticks behind
+[19Jul2025 07:42:27.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6759ms or 135 ticks behind
+[19Jul2025 07:42:47.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4941ms or 98 ticks behind
+[19Jul2025 07:42:57.523] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
+[19Jul2025 07:43:06.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4033ms or 80 ticks behind
+[19Jul2025 07:43:25.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3885ms or 77 ticks behind
+[19Jul2025 07:43:44.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
+[19Jul2025 07:44:03.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4142ms or 82 ticks behind
+[19Jul2025 07:44:12.361] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[19Jul2025 07:44:24.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6237ms or 124 ticks behind
+[19Jul2025 07:44:44.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has completed the challenge [Village Defender]
+[19Jul2025 07:44:46.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6233ms or 124 ticks behind
+[19Jul2025 07:45:06.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
+[19Jul2025 07:45:26.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[19Jul2025 07:45:28.998] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[19Jul2025 07:45:46.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5043ms or 100 ticks behind
+[19Jul2025 07:45:53.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 07:45:53.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 07:46:09.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7863ms or 157 ticks behind
+[19Jul2025 07:46:30.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6257ms or 125 ticks behind
+[19Jul2025 07:46:52.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6999ms or 139 ticks behind
+[19Jul2025 07:47:14.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6874ms or 137 ticks behind
+[19Jul2025 07:47:37.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7737ms or 154 ticks behind
+[19Jul2025 07:47:58.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6617ms or 132 ticks behind
+[19Jul2025 07:48:19.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
+[19Jul2025 07:48:39.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4595ms or 91 ticks behind
+[19Jul2025 07:48:58.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4405ms or 88 ticks behind
+[19Jul2025 07:49:20.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7219ms or 144 ticks behind
+[19Jul2025 07:49:42.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6748ms or 134 ticks behind
+[19Jul2025 07:50:06.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8959ms or 179 ticks behind
+[19Jul2025 07:50:37.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16137ms or 322 ticks behind

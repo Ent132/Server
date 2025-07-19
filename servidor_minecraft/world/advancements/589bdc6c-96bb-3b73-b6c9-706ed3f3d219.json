@@ -90,6 +90,7 @@
       "minecraft:jungle": "2025-07-14 01:50:14 +0000",
       "minecraft:ocean": "2025-07-14 08:50:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-16 03:59:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-19 07:41:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-16 03:58:49 +0000",
       "minecraft:deep_dark": "2025-07-14 07:23:16 +0000",
       "minecraft:savanna": "2025-07-14 02:05:30 +0000",
@@ -1329,6 +1330,7 @@
       "mediterranean_forest": "2025-07-14 02:05:32 +0000",
       "spider_nest": "2025-07-19 06:45:28 +0000",
       "redwood_forest": "2025-07-14 01:58:17 +0000",
+      "dune_beach": "2025-07-19 07:44:31 +0000",
       "rocky_rainforest": "2025-07-14 01:54:31 +0000",
       "pasture": "2025-07-14 08:57:16 +0000",
       "volcanic_plains": "2025-07-14 09:27:57 +0000",
@@ -10175,6 +10177,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-07-19 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 07:44:44 +0000"
     },
     "done": true
   },
