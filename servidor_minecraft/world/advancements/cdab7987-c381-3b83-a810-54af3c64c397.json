@@ -6908,6 +6908,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
@@ -6926,15 +6932,39 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-19 07:47:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/coal_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-19 07:59:39 +0000"
     },
     "done": true
   },
@@ -6956,6 +6986,18 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
@@ -6965,6 +7007,12 @@
   "securitycraft:recipes/building_blocks/end_stone_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 07:59:39 +0000"
     },
     "done": true
   },
@@ -6998,6 +7046,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
@@ -7028,6 +7082,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
@@ -7052,15 +7112,39 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/gravel_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
     },
     "done": true
   },
@@ -7076,15 +7160,45 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/wire_cutters": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
     },
     "done": true
   },
@@ -7106,6 +7220,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
@@ -7115,6 +7235,12 @@
   "securitycraft:recipes/building_blocks/dirt_mine": {
     "criteria": {
       "has_mine": "2025-07-19 07:44:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 07:59:39 +0000"
     },
     "done": true
   },

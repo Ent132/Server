@@ -13997,6 +13997,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/obtain_netherite_knife": {
+    "criteria": {
+      "obtain_netherite_knife": "2025-07-19 07:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-07-19 07:40:29 +0000"

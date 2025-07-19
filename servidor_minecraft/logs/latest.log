@@ -3885,3 +3885,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 07:49:42.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6748ms or 134 ticks behind
 [19Jul2025 07:50:06.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8959ms or 179 ticks behind
 [19Jul2025 07:50:37.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16137ms or 322 ticks behind
+[19Jul2025 07:51:02.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10203ms or 204 ticks behind
+[19Jul2025 07:51:31.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13680ms or 273 ticks behind
+[19Jul2025 07:51:53.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7128ms or 142 ticks behind
+[19Jul2025 07:52:14.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6088ms or 121 ticks behind
+[19Jul2025 07:52:36.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7003ms or 140 ticks behind
+[19Jul2025 07:52:58.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7195ms or 143 ticks behind
+[19Jul2025 07:53:20.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6598ms or 131 ticks behind
+[19Jul2025 07:53:45.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10288ms or 205 ticks behind
+[19Jul2025 07:54:07.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7354ms or 147 ticks behind
+[19Jul2025 07:54:31.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8609ms or 172 ticks behind
+[19Jul2025 07:54:55.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8812ms or 176 ticks behind
+[19Jul2025 07:55:18.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8567ms or 171 ticks behind
+[19Jul2025 07:55:43.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10116ms or 202 ticks behind
+[19Jul2025 07:56:07.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9128ms or 182 ticks behind
+[19Jul2025 07:56:28.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5712ms or 114 ticks behind
+[19Jul2025 07:56:48.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
+[19Jul2025 07:57:08.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4601ms or 92 ticks behind
+[19Jul2025 07:57:28.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[19Jul2025 07:57:49.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5839ms or 116 ticks behind
+[19Jul2025 07:58:09.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
+[19Jul2025 07:58:29.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5629ms or 112 ticks behind
+[19Jul2025 07:58:49.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5146ms or 102 ticks behind
+[19Jul2025 07:59:09.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4891ms or 97 ticks behind
+[19Jul2025 07:59:31.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7142ms or 142 ticks behind
+[19Jul2025 07:59:52.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [If You Can't Take the Heat...]
+[19Jul2025 07:59:53.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6601ms or 132 ticks behind
+[19Jul2025 08:00:15.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6819ms or 136 ticks behind
+[19Jul2025 08:00:36.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
+[19Jul2025 08:00:43.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! -5.156654063698397,4.76570327811686,-7.594427466478919
+[19Jul2025 08:01:01.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9922ms or 198 ticks behind
+[19Jul2025 08:01:24.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7908ms or 158 ticks behind
