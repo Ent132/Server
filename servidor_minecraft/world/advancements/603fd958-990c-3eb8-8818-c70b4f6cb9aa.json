@@ -14139,6 +14139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-19 22:22:11 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-07-19 22:01:24 +0000"
