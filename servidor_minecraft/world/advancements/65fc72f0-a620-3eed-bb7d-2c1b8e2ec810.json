@@ -7767,5 +7767,11 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-07-19 05:55:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
