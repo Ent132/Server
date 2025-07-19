@@ -4789,3 +4789,51 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Jul2025 21:48:50.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jul2025 21:53:50.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jul2025 21:53:50.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 21:55:21.389] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[19Jul2025 21:57:59.983] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[19Jul2025 21:58:04.484] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[19Jul2025 21:58:50.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 21:58:50.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 22:00:11.110] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.130] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.192] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.216] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.649] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.355] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.387] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.388] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.405] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.495] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.804] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.805] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.805] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.972] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.762] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.811] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.812] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.813] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.940] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:18.041] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:18.617] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:18.673] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:19.534] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:19.922] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:22.991] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:22.992] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:23.286] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:23.287] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:30.376] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:30.420] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:30.545] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:02.045] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:02.748] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:02.749] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Acropolis]
+[19Jul2025 22:03:50.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 22:03:50.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 22:07:09.485] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[19Jul2025 22:08:50.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 22:08:50.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 22:11:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Not so Shrimple Now]
+[19Jul2025 22:13:50.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 22:13:50.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

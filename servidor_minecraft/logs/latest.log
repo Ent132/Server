@@ -281,3 +281,40 @@
 [19Jul2025 21:15:35.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:44979] logged in with entity id 247789 at (2110.791447513918, 47.0, -340.69999998807907)
 [19Jul2025 21:15:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
 [19Jul2025 21:15:35.500] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
+[19Jul2025 21:55:21.389] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[19Jul2025 22:00:11.110] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.130] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.192] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.216] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:11.649] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.355] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.387] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.388] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.405] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.495] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.804] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.805] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.805] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:14.972] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.762] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.811] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.812] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.813] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:15.940] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:18.041] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:18.617] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:18.673] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:19.534] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:19.922] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:22.991] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:22.992] [Worker-Main-63/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:23.286] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:23.287] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:30.376] [Worker-Main-62/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:30.420] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:00:30.545] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:02.045] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:02.748] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:02.749] [Worker-Main-64/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jul2025 22:01:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Acropolis]
+[19Jul2025 22:11:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Not so Shrimple Now]

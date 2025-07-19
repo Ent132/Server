@@ -14133,6 +14133,18 @@
     },
     "done": true
   },
+  "cataclysm:kill_clawdian": {
+    "criteria": {
+      "endergolem": "2025-07-19 22:11:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-07-19 22:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-19 21:50:04 +0000"
@@ -14145,9 +14157,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_shrub": {
+    "criteria": {
+      "has_baobab_sapling": "2025-07-19 21:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-07-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-19 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_acropolis": {
+    "criteria": {
+      "acropolis": "2025-07-19 22:01:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_shrub": {
+    "criteria": {
+      "has_palm_sapling": "2025-07-19 21:57:33 +0000"
     },
     "done": true
   },
