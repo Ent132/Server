@@ -319,3 +319,4 @@
 [19Jul2025 22:01:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Acropolis]
 [19Jul2025 22:11:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Not so Shrimple Now]
 [19Jul2025 22:41:15.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [The Calm After the Storm]
+[19Jul2025 22:47:52.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3876ms or 77 ticks behind
