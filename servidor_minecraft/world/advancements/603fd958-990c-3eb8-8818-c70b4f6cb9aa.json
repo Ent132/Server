@@ -14122,6 +14122,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-20 00:13:56 +0000"
+    },
+    "done": false
+  },
   "mcwbiomesoplenty:recipes/hellbark_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-19 23:47:18 +0000"
