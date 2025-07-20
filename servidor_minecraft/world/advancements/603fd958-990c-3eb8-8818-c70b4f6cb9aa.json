@@ -14122,15 +14122,33 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/hellbark_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_scylla": {
     "criteria": {
       "ignis": "2025-07-19 22:41:15 +0000"
     },
     "done": true
   },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-07-19 23:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -14146,6 +14164,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-19 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-19 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-07-19 22:22:11 +0000"
@@ -14158,9 +14194,57 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/hellbark_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-19 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -14173,6 +14257,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-07-19 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -14194,9 +14284,21 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/hellbark_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_acropolis": {
     "criteria": {
       "acropolis": "2025-07-19 22:01:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -14206,15 +14308,69 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/hellbark_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-19 23:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-07-19 21:42:07 +0000"
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/hellbark_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2025-07-19 22:28:44 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-19 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 23:47:18 +0000"
     },
     "done": true
   },
